@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "eslint linebreak-style": ["error", "windows", "unix"],
+        "eol-last": ["error", "never"],
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"]
+       
+    }
+}
